@@ -20,3 +20,16 @@
 > *Creation. Binding. Clean-up.*
 
 > *No dangling connections, no ghost updates, no memory leaks.*
+
+### Performance first design.
+*RowGUI avoids these things.*
+
+> Unnecessary instances.
+
+> Unnecessary events.
+
+> Unnecessary allocations.
+
+> Unnecessary recomputation.
+
+> *Everything is built to run at 60–240 FPS without jitter.*
