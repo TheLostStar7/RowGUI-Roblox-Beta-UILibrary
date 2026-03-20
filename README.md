@@ -33,3 +33,8 @@
 > Unnecessary recomputation.
 
 > *Everything is built to run at 60–240 FPS without jitter.*
+
+
+> *No virtual DOM, no overhead
+Unlike React style libraries, RowGUI doesn’t diff trees or rebuild UI.  
+It updates only what changes, when it changes.*
