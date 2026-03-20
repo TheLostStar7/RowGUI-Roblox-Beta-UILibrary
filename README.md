@@ -24,15 +24,34 @@
 ### Performance first design.
 *RowGUI avoids these things.*
 
-> Unnecessary instances.
+> *Unnecessary instances.*
 
-> Unnecessary events.
+> *Unnecessary events.*
 
-> Unnecessary allocations.
+> *Unnecessary allocations.*
 
-> Unnecessary recomputation.
+> *Unnecessary recomputation.*
 
 > *Everything is built to run at 60–240 FPS without jitter.*
+
+### Built for real tools.
+*RowGUI was designed for.*
+
+> *in game editors.*
+
+> *Admin panels.*
+
+> *Debugging tools.*
+
+> *Runtime Inspectors.*
+
+> *Theme Systems.*
+
+> *Notification Systems.*
+
+> *Window Manager.*
+
+> *It’s not a toy it’s a foundation for your future code.*
 
 ----------------------------------------
 
