@@ -1,6 +1,6 @@
 > *RowGUI Beta Roblox Framework. Why would you use RowGUI?*
 
-# Zero garbage reactive core:
+### Zero garbage reactive core:
 *RowGUI uses a tiny set of primitives*
 > *Maid - deterministic cleanup.*
 > *Signal - fast event dispatch.*
