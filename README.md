@@ -51,7 +51,7 @@
 
 > *Window Manager.*
 
-> *It’s not a toy it’s a foundation for your future code.*
+> *It’s not a toy it’s a foundation for your future project.*
 
 ----------------------------------------
 
