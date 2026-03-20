@@ -1,4 +1,4 @@
-> *RowGUI Beta Roblox Framework. Why would you use RowGUI?*
+> *RowGUI Beta, Roblox Framework. Why would you use RowGUI?*
 
 ### Zero garbage reactive core:
 *RowGUI uses a tiny set of primitives*
