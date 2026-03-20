@@ -58,3 +58,5 @@
 > *No virtual DOM, no overhead
 Unlike React style libraries, RowGUI doesn’t diff trees or rebuild UI.  
 It updates only what changes, when it changes.*
+
+> *RowGUI started because Roblox UI development lacked a modern, reactive, performance‑focused foundation. Existing libraries relied on outdated patterns, heavy loops, and fragile designs that didn’t scale. Instead of reviving old styles or copying new ones, RowGUI takes a clean, engineered approach built for long term stability and real tools. Hopefully RowGUI will be loved as i will work hard on it.*
