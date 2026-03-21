@@ -17,7 +17,7 @@
 ### Predictable lifecycle.
 *Every component has.*
 
-> *Creation. Binding. Clean-up.*
+> *Creation. Binding. Clean–up.*
 
 > *No dangling connections, no ghost updates, no memory leaks.*
 
